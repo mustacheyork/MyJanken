@@ -43,7 +43,7 @@ class ViewController: UIViewController {
     
     if answerNumber == 0 {
       // グー
-      answerLavel.text = "グー"
+      answerLavel.text = "グーだよ！"
       answerImageView.image = UIImage(named: "gu")
     } else if answerNumber == 1 {
       // チョキ
